@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+.typewrite {
+  text-decoration: none;
+  color: white;
+  padding-top: 40px;
+  width:50%;
+  justify-content: center;
+  text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 4.5vw;
+    font-weight: 100;
+    letter-spacing: 10px;
+    color: #000000;
+}
+
